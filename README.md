@@ -12,3 +12,6 @@ Different control:
 
 Control the color and the display
 <img src="screenShot_FullModification.jpg"/>
+
+Display child and control the display
+<img src="screenShot_Children.jpg"/>
